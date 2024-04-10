@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orozco\\source\\repos\\Rehab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\rehab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\rehab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\estadopacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\estadopacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\especialidadparapacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\especialidadparapacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\especialidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\especialidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\dolorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\dolorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\fisioterapeutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\fisioterapeutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\seguimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\seguimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|c:\\users\\orozco\\source\\repos\\rehab\\rehab\\models\\rehabcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF522B33-3B59-4AD4-9AB6-3F5F7368A993}|Rehab\\Rehab.csproj|solutionrelative:rehab\\models\\rehabcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Rehab\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Models\\Usuario.cs",
+              "RelativeToolTip": "Rehab\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:40:43.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Rehab\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Rehab\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA4AAABwZmZmZmYkwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T15:15:57.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rehab",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Rehab.csproj",
+              "RelativeDocumentMoniker": "Rehab\\Rehab.csproj",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Rehab.csproj",
+              "RelativeToolTip": "Rehab\\Rehab.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T15:14:24.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAE4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:12:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstadoPacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\EstadoPacientesController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\EstadoPacientesController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\EstadoPacientesController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\EstadoPacientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:16:47.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DolorController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\DolorController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\DolorController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\DolorController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\DolorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:15:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FisioterapeutasController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\FisioterapeutasController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\FisioterapeutasController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\FisioterapeutasController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\FisioterapeutasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:14:34.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EspecialidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\EspecialidadesController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\EspecialidadesController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\EspecialidadesController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\EspecialidadesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:15:36.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EspecialidadParaPacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\EspecialidadParaPacientesController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\EspecialidadParaPacientesController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\EspecialidadParaPacientesController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\EspecialidadParaPacientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:16:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeguimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\SeguimientosController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\SeguimientosController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\SeguimientosController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\SeguimientosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:14:09.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Rehab\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Rehab\\Controllers\\PacientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:13:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RehabContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Models\\RehabContext.cs",
+              "RelativeDocumentMoniker": "Rehab\\Models\\RehabContext.cs",
+              "ToolTip": "C:\\Users\\Orozco\\source\\repos\\Rehab\\Rehab\\Models\\RehabContext.cs",
+              "RelativeToolTip": "Rehab\\Models\\RehabContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAhwCIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:10:32.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
